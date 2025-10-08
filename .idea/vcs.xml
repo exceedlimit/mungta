@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mugta-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-accusation-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-argocd-helm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-matching-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-partymanagement-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mungta-user-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notice-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/questions-service" vcs="Git" />
+  </component>
+</project>
